@@ -1,3 +1,11 @@
+# The ReactQuora
+the React single page webapp using redux and rest api 
+
+
+
+
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -23,4 +31,7 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
-# candid-3.0
+
+
+
+
